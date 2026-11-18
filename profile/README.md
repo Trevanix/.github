@@ -23,4 +23,4 @@
 - **AI-agent friendly:** each repo has an `AGENTS.md` so Claude Code, Codex, Gemini CLI and others can guide you.
 
 Found a bug or have an idea? Open an issue in the project's repo.
-Other questions: [contacto@trevanix.com](mailto:contacto@trevanix.com). Security reports: see our [security policy](https://github.com/trevanix/.github/blob/main/SECURITY.md).
+Other questions: [contact@trevanix.com](mailto:contact@trevanix.com). Security reports: see our [security policy](https://github.com/trevanix/.github/blob/main/SECURITY.md).
